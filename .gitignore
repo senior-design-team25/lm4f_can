@@ -1,4 +1,7 @@
 StellarisWare/
+RASLib/
+RASTemplate/
+RASDemo/
 *.bak
 *.a
 *.o
@@ -26,3 +29,4 @@ StellarisWare/
 *._ia
 .DS_Store
 *.swp
+
